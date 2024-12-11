@@ -1,6 +1,6 @@
 
 
-# Título del Proyecto
+# TGestor de criptomonedas
 
 #### Curso Escolar 2022-2023
 #### Autor: Isidro Perez Padilla
